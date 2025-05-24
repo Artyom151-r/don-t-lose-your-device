@@ -1,4 +1,4 @@
-# Локатор телефона — don't_lose_your_device
+# Локатор телефона — don't-lose-your-device
 ## Описание
 
 Это простой локатор для отслеживания местоположения телефона через собственный сервер. Вы можете видеть координаты телефона на карте, а телефон может отправлять свои координаты вручную или автоматически (через GPS).
@@ -9,7 +9,7 @@
 
 1. Перейдите в папку проекта:
    ```
-   cd don't_lose_your_device
+   cd don't-lose-your-device
    ```
 2. Установите зависимости:
    ```
@@ -37,7 +37,7 @@
 1. Установите Python и requests на телефоне (например, через Termux или Pydroid).
 2. Перейдите в папку `mobile`:
    ```
-   cd don't_lose_your_device/mobile
+   cd don't-lose-your-device/mobile
    ```
 3. Установите requests:
    ```
@@ -62,7 +62,7 @@
 2. Дайте Termux разрешение на геолокацию (Android Settings → Apps → Termux → Permissions → Location).
 3. Перейдите в папку `mobile`:
    ```
-   cd don't_lose_your_device/mobile
+   cd don't-lose-your-device/mobile
    ```
 4. Запустите скрипт:
    ```
